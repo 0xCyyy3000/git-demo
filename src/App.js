@@ -16,12 +16,6 @@ function App() {
         <p className=" text-slate-300 bg-indigo-500 p-3 rounded-md w-full">
           My to do 3
         </p>
-        <p className=" text-slate-300 bg-indigo-500 p-3 rounded-md w-full">
-          My to do 4
-        </p>
-        <p className=" text-slate-300 bg-indigo-500 p-3 rounded-md w-full">
-          My to do 5
-        </p>
       </header>
     </div>
   );
